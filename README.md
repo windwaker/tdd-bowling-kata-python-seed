@@ -1,5 +1,5 @@
 # tdd-bowling-kata-python-seed
-A Python project seed for Uncle Bob's TDD bowling kata
+A Python-based project seed for Uncle Bob's TDD bowling kata
 
 #### Setup
 Create a Python 3 virtual environment, and activate it for the current project  
